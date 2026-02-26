@@ -8,14 +8,14 @@ function NavCards() {
       </div>
       <div className="nav-cards-container">
         <div className="nav-card">
-          <FaLightbulb size="1.5em" aria-hidden="true" /> See my skills
+          <FaLightbulb size="1.5em" aria-hidden="true" /> My skills
         </div>
         <div className="nav-card">
-          <FaFolder size="1.5em" aria-hidden="true" /> Browse my work
+          <FaFolder size="1.5em" aria-hidden="true" /> My work
         </div>
         <div className="nav-card">
           <FaUserPlus size="1.5em" aria-hidden="true" />
-          Get to know me
+          About me
         </div>
       </div>
     </section>

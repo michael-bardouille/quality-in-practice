@@ -1,5 +1,3 @@
-import React from 'react';
-
 function NavOptions() {
   return (
     <nav aria-label="Site navigation">

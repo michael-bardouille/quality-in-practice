@@ -1,7 +1,7 @@
 function Hero() {
   return (
-    <section className="hero">
-      <div>
+    <section>
+      <div className="hero">
         <div className="hero-title">
           <div>
             <span className="hero-headline">I build reliable products that feel great to use.</span>
@@ -11,8 +11,8 @@ function Hero() {
             <p>I ship fast without shipping chaos.</p>
           </div>
         </div>
+        <img src="/hero-logo.svg" alt="Hero logo" className="hero-image" />
       </div>
-      <img src="/hero-logo.svg" alt="Hero logo" className="hero-image" />
     </section>
   );
 }
